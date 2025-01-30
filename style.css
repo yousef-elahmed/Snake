@@ -1,0 +1,33 @@
+.container {
+    width: 500px;
+    height: 500px;
+    background-color: #f0f0f0;
+    position: relative;
+    border: 5px solid goldenrod;
+    margin: auto;
+}
+
+.food {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.snake {
+    width: 20px;
+    height: 20px;
+    background-color: rgb(114, 252, 114);
+    position: absolute;
+
+}
+
+.snake-body {
+    width: 20px;
+    height: 20px;
+    background-color: rgb(114, 252, 114);
+    position: absolute;
+
+}
